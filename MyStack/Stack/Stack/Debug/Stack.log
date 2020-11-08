@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\teren\Documents\LabsProgramming\MyStack\Stack\Stack\Stack.h(145,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\teren\Documents\LabsProgramming\MyStack\Stack\Stack\main.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &operator >><int>(std::istream &,Stack<int> &)"
+  Stack.vcxproj -> C:\Users\teren\Documents\LabsProgramming\MyStack\Stack\Debug\Stack.exe

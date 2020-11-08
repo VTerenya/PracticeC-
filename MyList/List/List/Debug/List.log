@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\teren\Documents\LabsProgramming\MyList\List\List\List.h(98,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\teren\Documents\LabsProgramming\MyList\List\List\main.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &operator >><int>(std::istream &,List<int> &)"
+C:\Users\teren\Documents\LabsProgramming\MyList\List\List\main.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::istream &operator >><int>(std::istream &,List<int> &)"
+  List.vcxproj -> C:\Users\teren\Documents\LabsProgramming\MyList\List\Debug\List.exe

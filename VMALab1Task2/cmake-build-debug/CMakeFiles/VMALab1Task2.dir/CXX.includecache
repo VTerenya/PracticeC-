@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/teren/Documents/LabsProgramming/VMALab1Task2/main.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+cmath
+-
+

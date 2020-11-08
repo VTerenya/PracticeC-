@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\set.h(301,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\set.h(296): message : во время компиляции функции-члена класс шаблон "Set<std::string> &Set<std::string>::operator =(const Set<std::string> &)"
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\Model.h(7): message : выполняется компиляция ссылки на экземпляр шаблон функции "Set<std::string> &Set<std::string>::operator =(const Set<std::string> &)"
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\Model.h(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<std::string>"
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\set.h(118,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\set.h(116): message : во время компиляции функции-члена класс шаблон "void Set<std::string>::Insert(const T &)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\Controller.h(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<std::string>::Insert(const T &)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\set.h(127,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\set.h(80,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\set.h(77): message : во время компиляции функции-члена класс шаблон "Set<std::string>::Set(const Set<std::string> &)"
+C:\Users\teren\Documents\LabsProgramming\consoleMvc\consoleMvc\Model.h(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "Set<std::string>::Set(const Set<std::string> &)"
+  consoleMvc.vcxproj -> C:\Users\teren\Documents\LabsProgramming\consoleMvc\Debug\consoleMvc.exe
