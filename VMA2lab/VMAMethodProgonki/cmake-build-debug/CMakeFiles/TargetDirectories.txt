@@ -1,0 +1,3 @@
+C:/Users/teren/Documents/VMA2lab/VMAMethodProgonki/cmake-build-debug/CMakeFiles/VMAMethodProgonki.dir
+C:/Users/teren/Documents/VMA2lab/VMAMethodProgonki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/teren/Documents/VMA2lab/VMAMethodProgonki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
